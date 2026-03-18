@@ -4,7 +4,7 @@ Hệ thống được phát triển khai tại:
 
 Admin
 Tai khoan: admin
-Mat khau: (dien mat khau)
+Mat khau: 123
 
 Nhan vien
 Tai khoan: Nhanvien
