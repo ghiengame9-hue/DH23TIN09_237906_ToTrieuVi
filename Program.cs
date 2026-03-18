@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<TourContext>(options =>
-    options.UseSqlite("Data Source=qltour.db"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("TourContext")));
 
 // THÊM DÒNG NÀY
 builder.Services.AddSession();
@@ -27,10 +27,9 @@ app.UseRouting();
 app.UseSession();
 
 app.UseAuthorization();
-app.MapGet("/", () => Results.Redirect("/Tour/Index"));
+
 app.MapControllerRoute(
     name: "default",
    pattern: "{controller=Tour}/{action=Index}/{id?}");
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "10000";
-app.Run($"http://0.0.0.0:{port}");
+app.Run();
