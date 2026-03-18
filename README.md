@@ -3,28 +3,28 @@ Hệ thống được phát triển khai tại:
 
 Admin
 
-Tai khoan: admin
+Tài khoản: admin
 
-Mat khau: 123
-
-
-
-
-Nhan vien
-
-Tai khoan: Nhanvien
-
-Mat khau: 123456
+Mật khẩu: 123
 
 
 
 
+Nhân viên
 
-Khach hang
+Tài khoản: Nhanvien
 
-Tai khoan: Loc
+Mật khẩu: 123456
 
-Mat khau: 123456
+
+
+
+
+Khách hàng
+
+Tài khoản: Loc
+
+Mật khẩu: 123456
 
 
 
