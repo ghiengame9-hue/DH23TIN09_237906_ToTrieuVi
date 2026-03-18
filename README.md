@@ -1,4 +1,10 @@
 # CodeQLTour
+---
+
+## Thông tin đồ án
+- Sinh viên: Tô Triệu Vĩ  
+- MSSV: 237906  
+- Lớp: DH23TIN09  
 
 Hệ thống được phát triển tại: http://trieuvi-001-site1.jtempurl.com/
 
@@ -26,12 +32,6 @@ Hệ thống được phát triển tại: http://trieuvi-001-site1.jtempurl.com
 - Giỏ hàng
 - Thống kê doanh thu
 
----
-
-## Thông tin đồ án
-- Sinh viên: Tô Triệu Vĩ  
-- MSSV: 237906  
-- Lớp: DH23TIN09  
 
 ## Công nghệ sử dụng
 - ASP.NET Core MVC
