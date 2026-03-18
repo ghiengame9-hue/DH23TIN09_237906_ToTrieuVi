@@ -4,6 +4,7 @@ Hệ thống được phát triển khai tại:
 Admin
 
 Tai khoan: admin
+
 Mat khau: 123
 
 
@@ -11,6 +12,7 @@ Mat khau: 123
 Nhan vien
 
 Tai khoan: Nhanvien
+
 Mat khau: 123456
 
 
@@ -19,6 +21,7 @@ Mat khau: 123456
 Khach hang
 
 Tai khoan: Loc
+
 Mat khau: 123456
 
 
