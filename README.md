@@ -8,6 +8,22 @@ Mat khau: 123
 
 
 
+Nhan vien
+
+Tai khoan: Nhanvien
+Mat khau: 123456
+
+
+
+
+Khach hang
+
+Tai khoan: Loc
+Mat khau: 123456
+
+
+
+
 # Tai khoan mau he thong
 Chức năng:
 - Quản lý tài khoản
