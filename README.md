@@ -1,67 +1,39 @@
 # CodeQLTour
-Hệ thống được phát triển khai tại: http://trieuvi-001-site1.jtempurl.com/
 
+Hệ thống được phát triển tại: http://trieuvi-001-site1.jtempurl.com/
 
-User Name: trieuvi-001
-Password: 60-dayfreetrial
+## Tài khoản demo
 
-Admin
+### Admin
+- Tài khoản: admin
+- Mật khẩu: 123
 
-Tài khoản: admin
+### Nhân viên
+- Tài khoản: Nhanvien
+- Mật khẩu: 123456
 
-Mật khẩu: 123
+### Khách hàng
+- Tài khoản: Loc
+- Mật khẩu: 123456
 
+---
 
-
-
-Nhân viên
-
-Tài khoản: Nhanvien
-
-Mật khẩu: 123456
-
-
-
-
-
-Khách hàng
-
-Tài khoản: Loc
-
-Mật khẩu: 123456
-
-
-
-
-# Tai khoan mau he thong
-Chức năng:
+## Chức năng
 - Quản lý tài khoản
 - Quản lý tour
 - Quản lý khách hàng
 - Đặt tour
 - Giỏ hàng
 - Thống kê doanh thu
-ĐỒ ÁN 1 – HỆ THỐNG QUẢN LÝ TOUR DU LỊCH
 
-Sinh viên: Tô Triệu Vĩ
-MSSV: 237906
-Lớp: DH23TIN09
+---
 
-Công nghệ:
+## Thông tin đồ án
+- Sinh viên: Tô Triệu Vĩ  
+- MSSV: 237906  
+- Lớp: DH23TIN09  
+
+## Công nghệ sử dụng
 - ASP.NET Core MVC
 - SQL Server
 - Bootstrap
-
-Chức năng:
-- Quản lý tài khoản
-- Quản lý tour
-- Quản lý khách hàng
-- Đặt tour
-- Giỏ hàng
-- Thống kê doanh thu
-*
-
-
-
-
-**
