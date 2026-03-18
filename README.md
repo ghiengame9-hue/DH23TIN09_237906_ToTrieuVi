@@ -1,5 +1,5 @@
 # CodeQLTour
-Hệ thống được phát triển khai tại:
+Hệ thống được phát triển khai tại: http://trieuvi-001-site1.jtempurl.com/
 
 
 User Name: trieuvi-001
