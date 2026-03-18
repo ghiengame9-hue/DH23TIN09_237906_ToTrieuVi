@@ -1,6 +1,10 @@
 # CodeQLTour
 Hệ thống được phát triển khai tại:
 
+
+User Name: trieuvi-001
+Password: 60-dayfreetrial
+
 Admin
 
 Tài khoản: admin
