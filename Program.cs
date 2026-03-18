@@ -1,3 +1,4 @@
+
 using CodeQLTour.Models;
 using Microsoft.EntityFrameworkCore;
 
