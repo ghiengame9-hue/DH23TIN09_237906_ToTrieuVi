@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<TourContext>(options =>
-    options.UseSqlite("Data Source=qltour.db");
+    options.UseSqlite("Data Source=qltour.db"));
 
 // THÊM DÒNG NÀY
 builder.Services.AddSession();
