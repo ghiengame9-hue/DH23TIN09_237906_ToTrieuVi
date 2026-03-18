@@ -1,7 +1,5 @@
 # CodeQLTour
 Hệ thống được phát triển khai tại:
-# Tai khoan mau he thong
-
 Admin
 Tai khoan: admin
 Mat khau: 123
@@ -20,6 +18,7 @@ Mat khau: 123456
 Tai khoan: Bao
 Mat khau: 123456
 
+# Tai khoan mau he thong
 Chức năng:
 - Quản lý tài khoản
 - Quản lý tour
