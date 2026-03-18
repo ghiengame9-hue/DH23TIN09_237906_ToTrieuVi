@@ -27,9 +27,10 @@ app.UseRouting();
 app.UseSession();
 
 app.UseAuthorization();
-
+app.MapGet("/", () => Results.Redirect("/Tour/Index"));
 app.MapControllerRoute(
     name: "default",
    pattern: "{controller=Tour}/{action=Index}/{id?}");
 
 app.Run();
+app.Run("http://0.0.0.0:10000");
