@@ -1,5 +1,24 @@
 # CodeQLTour
 Hệ thống được phát triển khai tại:
+# Tai khoan mau he thong
+
+Admin
+Tai khoan: admin
+Mat khau: (dien mat khau)
+
+Nhan vien
+Tai khoan: Nhanvien
+Mat khau: 123456
+
+Tai khoan: Nhanvien1
+Mat khau: 123456
+
+Khach hang
+Tai khoan: Loc
+Mat khau: 123456
+
+Tai khoan: Bao
+Mat khau: 123456
 
 Chức năng:
 - Quản lý tài khoản
