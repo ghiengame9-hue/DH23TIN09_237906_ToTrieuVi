@@ -1,6 +1,25 @@
 # CodeQLTour
 Hệ thống được phát triển khai tại:
 
+admin
+tài khoản: admin
+mật khẩu: 
+
+Nhân viên
+tài khoản: Nhanvien
+mật khẩu: 123456
+
+tài khoản: Nhanvien1
+mật khẩu: 123456
+
+Khách hàng
+tài khoản: Loc
+mật khẩu: 123456
+
+tài khoản: Bao
+mật khẩu: 123456
+
+
 ĐỒ ÁN 1 – HỆ THỐNG QUẢN LÝ TOUR DU LỊCH
 
 Sinh viên: Tô Triệu Vĩ
